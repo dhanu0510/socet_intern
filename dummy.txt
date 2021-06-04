@@ -1,2 +1,0 @@
-namaste = hola
-namaste = hello
