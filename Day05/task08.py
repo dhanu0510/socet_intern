@@ -58,3 +58,4 @@ for i in range(n):
     studentInfo(roll_no[i],name[i])
     studentMarks(roll_no[i],marks[i])
     avg(roll_no[i],grade[i],average[i])
+ 
