@@ -28,6 +28,7 @@ class main():
         self.NO.append(no)
         self.INFO.append(info)
     def input_studentMarks(self):
+        no = int(input("Enter no:"))
         m1 = int(input("Enter marks1:"))
         m2 = int(input("Enter marks2:"))
         m3 = int(input("Enter marks3:"))
